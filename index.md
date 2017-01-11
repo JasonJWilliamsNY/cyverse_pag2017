@@ -3,10 +3,10 @@
 ![](img/cyverse_rgb.jpg) 
 
 ## Welcome to CyVerse!
-**2016 Solenacea Conference**<br>
-###Adobe Connect Information:
-**Link:** [https://cshl.adobeconnect.com/getstarted](https://cshl.adobeconnect.com/getstarted)<br>
-**Presenter:** 
+**International Plant and Animal Genomics XXV**<br>
+<br>
+**Presenters:** 
+- Kapeel Chougule: [kchougul@cshl.edu](mailto:kchougul@cshl.edu) 
 - Jason Williams: [williams@cshl.edu](mailto:williams@cshl.edu) / Twitter: [@JasonWilliamsNY](https://twitter.com/JasonWilliamsNY)
 
 **CyVerse Vision:** Transforming science through data-driven discovery.<br>
@@ -18,6 +18,8 @@ CyVerse is of, by, and for the community, and community-driven needs shape our m
 While originally created with the name iPlant Collaborative to serve U.S. plant science communities, CyVerse cyberinfrastructure is germane to all life sciences disciplines and works equally well on data from plants, animals, or microbes. By democratizing access to supercomputing capabilities, we provide a crucial resource to enable scientists to find solutions for the future.
 
 ## Workshop Agenda
+
+**Please take our user survey: [Survey](https://www.surveymonkey.com/r/CyVersePAG)**
 
 In this workshop we will cover brief tutorials and documentation that will get you started using CyVerse tools and services right away. 
 
@@ -40,8 +42,8 @@ In this workshop we will cover brief tutorials and documentation that will get y
 ### Utilities/software
 - Cyberduck Download Utility - [Link](https://cyberduck.io/)
 - Cyberduck profile - [Link](https://pods.iplantcollaborative.org/wiki/download/attachments/18188197/iPlant%20Data%20Store.cyberduckprofile?version=1&modificationDate=1436557522000&api=v2)
-- iCommands (mac) - [Link](https://www.irods.org/binaries/irods3.3.icmds.mac.intel.tar)
-- iCommands (linux x64) - [Link](http://www.iplantcollaborative.org/sites/default/files/irods/icommands.x86_64.tar.bz2)
+- iCommands (mac; tested fro Mac OS 10.9 - 10.11) - [Link](https://pods.iplantcollaborative.org/wiki/download/attachments/28117338/cyverse-icommands-4.1.9.pkg?version=3&modificationDate=1472845229000&api=v2)
+- iCommands (linux; scroll down to iCommands CLI) - [iRODS Download Page](https://irods.org/download/)
 - VNC viewer - [Link](https://www.realvnc.com/download/viewer/)
 - PuTTY (windows)- [Link](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 
