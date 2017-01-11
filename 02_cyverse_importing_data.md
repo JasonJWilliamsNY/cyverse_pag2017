@@ -21,16 +21,17 @@ The CyVerse Data Store unifies all CyVerse cyberinfrastructure. In practical ter
  
 # Connecting to Data Store with Cyberduck
 
+**See full documentation:** [CyVerse Wiki](https://pods.iplantcollaborative.org/wiki/display/DS/Using+Cyberduck+for+Uploading+and+Downloading+to+the+Data+Store)
+
+
 Cyberduck is a user-friendly standalone application that can serve the majority of use cases for the majority of users. Feel free to upload any data you wish to analyze, especially in the context of the workshop. If you don’t have sample data, just upload any document as a test.
 
 ## Downloading and configuring Cyberduck
 
-### Download Cyberduck
-
 1. Go to the Cyberduck installation page at [https://cyberduck.io/](https://cyberduck.io/)
 2. Follow the steps for your OS (not available for LINUX users):
-    - For Mac OS: Click Download Cyberduck-4.7.1.zip (or later version than 4.7.1).
-    - For Windows: Click Download Cyberduck-Installer-4.7.1.exe (or later version than 4.7.1, if displayed).
+    - For Mac OS: Click Download Cyberduck-5.2.2.zip (or later version than 5.2.2).
+    - For Windows: Click Download Cyberduck-Installer-5.2.3.exe (or later version than 5.2.3, if displayed).
 
 ### One-time configuration of Cyberduck for use with CyVerse
 
@@ -38,7 +39,7 @@ Cyberduck is a user-friendly standalone application that can serve the majority 
 2. Double-click on the downloaded profile, Cyberduck should automatically start.  
 3. Verify iPlant Data Store is displayed in the first field.
 4. In the Nickname field, enter **data.iplantcollaborative.org – iRODS**
-5. Create a connection that uses your CyVerse user account for login (Optionally: you may create an anonymous connection to access public data without an iPlant user account - see full [CyVerse documentation](https://pods.iplantcollaborative.org/wiki/display/DS/Using+Cyberduck+for+Uploading+and+Downloading+to+the+Data+Store))
+5. Create a connection that uses your CyVerse user account for login (Optionally: you may create an anonymous connection to access public data without a user account - see full [CyVerse documentation](https://pods.iplantcollaborative.org/wiki/display/DS/Using+Cyberduck+for+Uploading+and+Downloading+to+the+Data+Store))
 6. In the populated _URL_ field, verify **irods://data.iplantcollaborative.org** is displayed.
 7. In the _Server_ field, enter **data.iplantcollaborative.org.**
 8. In the _Port_ field, enter **1247**.
@@ -150,10 +151,10 @@ The [Discovery Environment](http://www.cyverse.org/discovery-environment) is a p
 All of the instructions in this section will focus on the Data Console:
 <center><img src="https://mcbios.readthedocs.org/en/latest/img/data_icon.jpg", style="width:50px;height:50px;"></center>
 
-1.	Log into the Discovery Environment [DE Login](https://de.iplantcollaborative.org/de)
+1.	Log into the Discovery Environment [DE Login](https://de.cyverse.org/de/)
 
 2.	In the Data console, next to the file click the <img src="https://mcbios.readthedocs.org/en/latest/img/link_icon.jpg", style="width:20px;height:15px;"> icon or select a file you wish to share, then from the Share menu click via Public Link. **Note**, only individual files can be shared from a public link. 
-3. In the “Manage Data Links” window, select the file you wish to share, and click Create. **Note:** The manage links menu will only display if you use the 'Share' menu, not the shortcut link icon. <img src="https://mcbios.readthedocs.org/en/latest/img/manage_links_menu.jpg", style="width:300px;height:170px;">
+3. In the “Manage Data Links” window, select the file you wish to share, and click Create. **Note:** The manage links menu will only display if you use the 'Share' menu, not the shortcut link icon.<br> <img src="https://mcbios.readthedocs.org/en/latest/img/manage_links_menu.jpg", style="width:300px;height:170px;">
 4. A new URL should appear beneath the file name. Click on this URL and the click on Copy in order to be presented with a window that will allow you to copy the URL to your clipboard. Anyone who you share this link with will be able to download the file.
 5. Deactivate a data link by selecting the file; from the Share menu click via Public Link. Clicking the <img src="https://mcbios.readthedocs.org/en/latest/img/deactivatelink_icon.jpg", style="width:20px;height:15px;"> icon next to the links you wish to inactivate. Once you deactivate the link, anyone with whom you shared it with will no longer be able to access that data.
 
