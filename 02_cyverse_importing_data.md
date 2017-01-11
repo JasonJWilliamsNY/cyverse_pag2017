@@ -48,7 +48,7 @@ Cyberduck is a user-friendly standalone application that can serve the majority 
 11. In the _More Options_ section, select **Open multiple connections** in the Transfer Files drop-down list.
 
 **Example completed Cyberduck configuration**<br>
-<img src="https://mcbios.readthedocs.org/en/latest/img/configured_cyberduck.jpg", style="width:350px;height:400px;">
+<img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/configured_cyberduck.jpg", style="width:350px;height:400px;">
 
 ## Uploading and downloading from the Data Store with Cyberduck
 
@@ -75,7 +75,7 @@ or
     2. Enter the path to the folder (you may want to copy the path to the folder displayed in the DE Data window's Viewing field).For example, to go to the Data Store Shared folder, enter **/iplant/home/shared**; Click **Go**. 
 
 **Cyberduck window connected to Data Store**<br>
-<img src="https://mcbios.readthedocs.org/en/latest/img/connected_cyberduck.jpg", style="width:350px;height:400px;">
+<img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/connected_cyberduck.jpg", style="width:350px;height:400px;">
 
 
 # Connecting to Data Store with iCommands
@@ -149,21 +149,21 @@ The [Discovery Environment](http://www.cyverse.org/discovery-environment) is a p
 **Use:** Create a link to share an individual file with anyone. 
 
 All of the instructions in this section will focus on the Data Console:
-<center><img src="https://mcbios.readthedocs.org/en/latest/img/data_icon.jpg", style="width:50px;height:50px;"></center>
+<center><img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/data_icon.jpg", style="width:50px;height:50px;"></center>
 
 1.	Log into the Discovery Environment [DE Login](https://de.cyverse.org/de/)
 
-2.	In the Data console, next to the file click the <img src="https://mcbios.readthedocs.org/en/latest/img/link_icon.jpg", style="width:20px;height:15px;"> icon or select a file you wish to share, then from the Share menu click via Public Link. **Note**, only individual files can be shared from a public link. 
-3. In the “Manage Data Links” window, select the file you wish to share, and click Create. **Note:** The manage links menu will only display if you use the 'Share' menu, not the shortcut link icon.<br> <img src="https://mcbios.readthedocs.org/en/latest/img/manage_links_menu.jpg", style="width:300px;height:170px;">
+2.	In the Data console, next to the file click the <img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/link_icon.jpg", style="width:20px;height:15px;"> icon or select a file you wish to share, then from the Share menu click via Public Link. **Note**, only individual files can be shared from a public link. 
+3. In the “Manage Data Links” window, select the file you wish to share, and click Create. **Note:** The manage links menu will only display if you use the 'Share' menu, not the shortcut link icon.<br> <img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/manage_links_menu.jpg", style="width:300px;height:170px;">
 4. A new URL should appear beneath the file name. Click on this URL and the click on Copy in order to be presented with a window that will allow you to copy the URL to your clipboard. Anyone who you share this link with will be able to download the file.
-5. Deactivate a data link by selecting the file; from the Share menu click via Public Link. Clicking the <img src="https://mcbios.readthedocs.org/en/latest/img/deactivatelink_icon.jpg", style="width:20px;height:15px;"> icon next to the links you wish to inactivate. Once you deactivate the link, anyone with whom you shared it with will no longer be able to access that data.
+5. Deactivate a data link by selecting the file; from the Share menu click via Public Link. Clicking the <img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/deactivatelink_icon.jpg", style="width:20px;height:15px;"> icon next to the links you wish to inactivate. Once you deactivate the link, anyone with whom you shared it with will no longer be able to access that data.
 
   
 ### Sharing with colleagues link in the CyVerse Discovery Environment
 
 **Use:** Share data with another CyVerse user by granting permission to read, write, or own files/folders 
 
-1. Click the <img src="https://mcbios.readthedocs.org/en/latest/img/colleagues_icon.jpg", style="width:15px;height:15px;"> icon or check-select a file(s), folder(s) you wish to share with another user; then either click ‘Begin Sharing’ on the right-hand Details menu or click Sharing and select via Discovery Environment.2.	In the “Manage Sharing” menu, under ‘Selected File(s)/Folder(s) the name of the files and folders you are currently sharing are displayed. Ensure the file you wish to share now is selected. <img src="https://mcbios.readthedocs.org/en/latest/img/manage_sharing.jpg", style="width:300px;height:170px;">3.	In the ‘search for users’ menu search for the CyVerse user you wish to share with by search for their name, or CyVerse username. You may also select ‘Choose from Collaborators’ which will bring up a list of people you have designated as collaborators.4.	Next, under ‘Permissions’ choose what permission you want to grant the person you are sharing this file with.
+1. Click the <img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/colleagues_icon.jpg", style="width:15px;height:15px;"> icon or check-select a file(s), folder(s) you wish to share with another user; then either click ‘Begin Sharing’ on the right-hand Details menu or click Sharing and select via Discovery Environment.2.	In the “Manage Sharing” menu, under ‘Selected File(s)/Folder(s) the name of the files and folders you are currently sharing are displayed. Ensure the file you wish to share now is selected. <img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/manage_sharing.jpg", style="width:300px;height:170px;">3.	In the ‘search for users’ menu search for the CyVerse user you wish to share with by search for their name, or CyVerse username. You may also select ‘Choose from Collaborators’ which will bring up a list of people you have designated as collaborators.4.	Next, under ‘Permissions’ choose what permission you want to grant the person you are sharing this file with.
 5. Once you are finished, click Done to begin sharing. The user will be notified that a file has been shared with them. 
 
 >**Tip:** Files shared with you appear in the ‘Shared With Me’ top-level folder in the Data console. You will also get a notification when something is shared. #### Permission level chart|Permission Level|Read|Download/Save|Metadata|Rename|Move|Delete|

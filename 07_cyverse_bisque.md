@@ -41,20 +41,20 @@ By default, uploaded items are set to private visibility, which means only you c
 
 1. Get the username of another CyVerse user. i.e. 
 2. Select your image. Above the image next to visibility, there is a 'Share icon' to click on.
-<br><img src="https://cyverse-tagc2016.readthedocs.io/en/latest/img/share1.png", style="width:300px;height:150px;">
+<br><img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/share1.png", style="width:300px;height:150px;">
 3. A window will pop-up. Begin to type in the CyVerse username.
-<br><img src="https://cyverse-tagc2016.readthedocs.io/en/latest/img/share2.png", style="width:300px;height:150px;">
+<br><img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/share2.png", style="width:300px;height:150px;">
 4. You'll be able to set permissions depending if the image is public or private. Private resources are only accessible by the owner and shared users. Published resources are visible to everybody but are only modifiable by owners and shared users.
-<br><img src="https://cyverse-tagc2016.readthedocs.io/en/latest/img/share3.png", style="width:300px;height:150px;">
+<br><img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/share3.png", style="width:300px;height:150px;">
 
 ## Exercise 2 - Add metadata (annotations) to images
 You can add, delete, and IR import metadata tags (annotations) to datasets or selected files now or later.
 [wiki link](https://pods.iplantcollaborative.org/wiki/display/BIS/Uploading+Files%2C+Images%2C+and+Directories+to+BisQue) 
 
 1. To add metadata to a selected file in the dataset, click the file and then click Add.
-<br><img src="https://cyverse-tagc2016.readthedocs.io/en/latest/img/add.png", style="width:300px;height:150px;">
+<br><img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/add.png", style="width:300px;height:150px;">
 2. Double-click in the Name field, and either select a name from the drop-down list or enter a new metadata name.
-<br><img src="https://cyverse-tagc2016.readthedocs.io/en/latest/img/add2.png", style="width:300px;height:150px;">
+<br><img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/add2.png", style="width:300px;height:150px;">
 3. Double-click in or tab to the Type field and enter the metadata type.
-<br><img src="https://cyverse-tagc2016.readthedocs.io/en/latest/img/add3.png", style="width:300px;height:150px;">
+<br><img src="http://cyverse-user-meetig-pagxxv.readthedocs.io/en/latest/img/add3.png", style="width:300px;height:150px;">
 4. Click Update.
